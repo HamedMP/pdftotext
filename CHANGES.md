@@ -1,5 +1,10 @@
 # Changes
 
+## 2.1.2 - 2019-XX-XX
+
+ - Improve documentation
+
+
 ## 2.1.1 - 2018-10-07
 
  - For macOS, require at least version 10.9
